@@ -2,27 +2,20 @@
 
 Immerse yourself in a magical world with our Unity-based game, featuring a variety of engaging mini-games. Explore a vast, open world where you can roam freely and encounter different tasks at various locations. Each task offers unique challenges and the chance to earn points.
 
-<h3>Technology:<br>
---------------<br></h3>
+<h3>Technology</h3>
 
 <ul>
-<li>Unity</li>
+🔹 Unity<br>
 </ul>
 
 
-<h3>Current Tasks:<br>
----------------</br></h3>
+<h3>Current Tasks</h3>
 <ul>
-<li>Monster Hunt: </li>
-Enter a realm overrun by zombies. Your mission is to eliminate the zombies and collect magical potions scattered throughout this eerie landscape.
-
-<li>Magic Golf: </li>
-Take a break from the chaos and enjoy a round of mini golf. Test your skills on a whimsical course designed to entertain and challenge you.
-
-<li>Portion Run: </li>
-This task runs automatically, presenting you with obstacles to avoid. Move and jump to dodge barriers while collecting magical potions along the way.
-
-Future Plans:
+✅ Monster Hunt: <br>Enter a realm overrun by zombies. Your mission is to eliminate the zombies and collect magical potions scattered throughout this eerie landscape.<br><br>
+✅ Magic Golf:<br>Take a break from the chaos and enjoy a round of mini golf. Test your skills on a whimsical course designed to entertain and challenge you.<br><br>
+✅ Portion Run:<br>This task runs automatically, presenting you with obstacles to avoid. Move and jump to dodge barriers while collecting magical potions along the way.<br>
+</ul>
+<h3>Future Plans</h3>
 We are excited to expand this enchanting adventure with a total of 10 tasks, each offering new and exciting challenges. The journey will culminate in an epic final battle against a formidable boss, testing your skills and determination to the fullest.
 
 
